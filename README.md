@@ -1,3 +1,4 @@
 # first-demo
 this is first repository
-author-shreya
+author-shreya kumari
+hello just trying
